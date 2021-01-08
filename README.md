@@ -1,2 +1,2 @@
 # blog-takanattie
-Source code for Blog services.
+Source code for articles in blog services.
